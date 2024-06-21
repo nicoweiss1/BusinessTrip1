@@ -20,7 +20,7 @@ function App() {
   };
 
   const fetchUsers = async () => {
-    const response = await fetch('/users.json');
+    const response = await fetch('http://localhost:5001/users.json');
     const data = await response.json();
     return data;
   };

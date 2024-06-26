@@ -1,10 +1,50 @@
 [
   {
-    "username": "user1",
-    "password": "password123"
+    "username": "nico",
+    "password": "1234",
+    "trips": [
+      {
+        "id": 1,
+        "destination": "asdfasdf",
+        "flightTime": "",
+        "terminal": "",
+        "gate": "",
+        "departure": "",
+        "seat": ""
+      },
+      {
+        "id": 2,
+        "destination": "halloasdfasdf",
+        "flightTime": "asdf",
+        "terminal": "asdfa",
+        "gate": "sdf",
+        "departure": "asdfa",
+        "seat": "sdf"
+      }
+    ]
   },
   {
-    "username": "user2",
-    "password": "password456"
+    "username": "philip",
+    "password": "1234",
+    "trips": [
+      {
+        "id": 1,
+        "destination": "Paris",
+        "flightTime": "09:00",
+        "terminal": "",
+        "gate": "",
+        "departure": "",
+        "seat": ""
+      },
+      {
+        "id": 2,
+        "destination": "Mailand",
+        "flightTime": "",
+        "terminal": "",
+        "gate": "",
+        "departure": "",
+        "seat": ""
+      }
+    ]
   }
 ]

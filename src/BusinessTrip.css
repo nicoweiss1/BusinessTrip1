@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #d3d3d3;
+  }
+  
+  .MuiContainer-root {
+    margin-top: 20px;
+    color: #000;
+  }
+  
+  .header {
+    text-align: center;
+    background-color: #7d7d7d;
+    padding: 20px;
+    border-radius: 5px;
+    color: #000;
+  }
+  
+  .trip-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .trip-card {
+    margin: 20px;
+    padding: 20px;
+    width: 250px;
+    background-color: #555;
+    color: white;
+    border-radius: 10px;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+  
+  .trip-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  .card-text {
+    color: #bdbdbd;
+  }
+  
+  .icon-button {
+    color: #bdbdbd;
+  }
+  
+  .add-button {
+    background-color: #fff !important;
+    color: #000 !important;
+  }
+  
+  .modal-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    background-color: #fff;
+    padding: 20px;
+    border: 2px solid #000;
+    border-radius: 5px;
+    outline: none;
+  }
+  

@@ -5,7 +5,7 @@
     "trips": [
       {
         "id": 1,
-        "destination": "asdfasdf",
+        "destination": "Paris",
         "flightTime": "",
         "terminal": "",
         "gate": "",
@@ -14,7 +14,7 @@
       },
       {
         "id": 2,
-        "destination": "halloasdfasdf",
+        "destination": "Mailand",
         "flightTime": "asdf",
         "terminal": "asdfa",
         "gate": "sdf",
@@ -29,7 +29,7 @@
     "trips": [
       {
         "id": 1,
-        "destination": "Paris",
+        "destination": "Barcelona",
         "flightTime": "09:00",
         "terminal": "",
         "gate": "",
@@ -38,7 +38,7 @@
       },
       {
         "id": 2,
-        "destination": "Mailand",
+        "destination": "Madrid",
         "flightTime": "",
         "terminal": "",
         "gate": "",

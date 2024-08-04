@@ -20,6 +20,15 @@
         "gate": "sdf",
         "departure": "asdfa",
         "seat": "sdf"
+      },
+      {
+        "id": 3,
+        "destination": "Basel",
+        "flightTime": "",
+        "terminal": "",
+        "gate": "6A",
+        "departure": "",
+        "seat": ""
       }
     ]
   },
@@ -44,6 +53,15 @@
         "gate": "",
         "departure": "",
         "seat": ""
+      },
+      {
+        "id": 3,
+        "destination": "Zürich",
+        "flightTime": "09:00",
+        "terminal": "",
+        "gate": "",
+        "departure": "",
+        "seat": "u7"
       }
     ]
   }
